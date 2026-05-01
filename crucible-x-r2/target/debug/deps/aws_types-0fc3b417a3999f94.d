@@ -1,0 +1,18 @@
+/home/runner/work/crucible/crucible/crucible-x-r2/target/debug/deps/aws_types-0fc3b417a3999f94.d: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/app_name.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/build_metadata.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/endpoint_config.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/origin.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/os_shim_internal.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/region.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/request_id.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/sdk_config.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/service_config.rs /home/runner/work/crucible/crucible/crucible-x-r2/target/debug/build/aws-types-b84456cbabbe31bc/out/build_env.rs
+
+/home/runner/work/crucible/crucible/crucible-x-r2/target/debug/deps/libaws_types-0fc3b417a3999f94.rmeta: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/app_name.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/build_metadata.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/endpoint_config.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/origin.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/os_shim_internal.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/region.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/request_id.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/sdk_config.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/service_config.rs /home/runner/work/crucible/crucible/crucible-x-r2/target/debug/build/aws-types-b84456cbabbe31bc/out/build_env.rs
+
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/lib.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/app_name.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/build_metadata.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/endpoint_config.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/origin.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/os_shim_internal.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/region.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/request_id.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/sdk_config.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-types-1.3.15/src/service_config.rs:
+/home/runner/work/crucible/crucible/crucible-x-r2/target/debug/build/aws-types-b84456cbabbe31bc/out/build_env.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.3.15
+# env-dep:OUT_DIR=/home/runner/work/crucible/crucible/crucible-x-r2/target/debug/build/aws-types-b84456cbabbe31bc/out

@@ -1,0 +1,30 @@
+[package]
+name = "crucible-x-r2"
+version = "0.1.0"
+edition = "2021"
+description = "Rust SDK + CLI to sync X.com bookmarks to Cloudflare R2"
+license = "MIT"
+
+[[bin]]
+name = "crucible-x-r2"
+path = "src/main.rs"
+
+[lib]
+name = "crucible_x_r2"
+path = "src/lib.rs"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.12", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+aws-sdk-s3 = "1"
+aws-config = "1"
+clap = { version = "4.5", features = ["derive"] }
+anyhow = "1.0"
+dotenvy = "0.15"
+# OAuth 1.0a signing primitives
+hmac = "0.12"
+sha1 = "0.10"
+base64 = "0.22"
+rand = "0.8"
